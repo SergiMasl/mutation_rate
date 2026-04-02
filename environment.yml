@@ -1,0 +1,6 @@
+name: mutation_rate
+channels:
+  - defaults
+dependencies:
+  - python>=3.10
+  - pandas
